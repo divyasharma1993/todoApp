@@ -1,0 +1,9 @@
+.btn-primary{
+  flex: 1 1;
+  padding: 25px;
+  font-size: 22px;
+  font-family: monospace;
+  background: #F69234;
+  cursor: pointer;
+  }
+

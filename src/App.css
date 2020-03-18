@@ -1,0 +1,25 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.add-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  max-width: 1100px;
+  margin: auto;
+  height: 50vh;
+  
+}
+
+.text-primary{
+  font-size: 20px;
+    padding: 20px;
+    font-family: monospace;
+}
